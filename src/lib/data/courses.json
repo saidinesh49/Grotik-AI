@@ -1,0 +1,124 @@
+{
+  "courses": [
+    {
+      "id": "basic-banking",
+      "title": "Basic Banking",
+      "description": "Learn the fundamentals of banking, including account types, transactions, and financial planning.",
+      "progress": 60,
+      "enrolled": 128,
+      "image": "https://images.unsplash.com/photo-1554224155-6726b3ff858f?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=800&q=80",
+      "content": [
+        {
+          "id": "intro",
+          "name": "Introduction to Banking",
+          "type": "folder",
+          "children": [
+            { "id": "intro-1", "name": "What is Banking?", "type": "file" },
+            { "id": "intro-2", "name": "Types of Banks", "type": "file" },
+            { "id": "intro-3", "name": "Banking Services", "type": "file" }
+          ]
+        },
+        {
+          "id": "accounts",
+          "name": "Bank Accounts",
+          "type": "folder",
+          "children": [
+            { "id": "accounts-1", "name": "Checking Accounts", "type": "file" },
+            { "id": "accounts-2", "name": "Savings Accounts", "type": "file" },
+            { "id": "accounts-3", "name": "Investment Accounts", "type": "file" }
+          ]
+        },
+        {
+          "id": "transactions",
+          "name": "Banking Transactions",
+          "type": "folder",
+          "children": [
+            { "id": "transactions-1", "name": "Deposits and Withdrawals", "type": "file" },
+            { "id": "transactions-2", "name": "Transfers and Payments", "type": "file" },
+            { "id": "transactions-3", "name": "Online Banking", "type": "file" }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "investment-basics",
+      "title": "Investment Basics",
+      "description": "Understand the basics of investing, including stocks, bonds, and mutual funds.",
+      "progress": 30,
+      "enrolled": 95,
+      "image": "https://images.unsplash.com/photo-1611974789855-9c2a0a7236a3?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=800&q=80",
+      "content": [
+        {
+          "id": "intro",
+          "name": "Introduction to Investing",
+          "type": "folder",
+          "children": [
+            { "id": "intro-1", "name": "What is Investing?", "type": "file" },
+            { "id": "intro-2", "name": "Risk and Return", "type": "file" },
+            { "id": "intro-3", "name": "Investment Goals", "type": "file" }
+          ]
+        },
+        {
+          "id": "stocks",
+          "name": "Stock Market",
+          "type": "folder",
+          "children": [
+            { "id": "stocks-1", "name": "Understanding Stocks", "type": "file" },
+            { "id": "stocks-2", "name": "Stock Analysis", "type": "file" },
+            { "id": "stocks-3", "name": "Trading Strategies", "type": "file" }
+          ]
+        },
+        {
+          "id": "bonds",
+          "name": "Bonds and Fixed Income",
+          "type": "folder",
+          "children": [
+            { "id": "bonds-1", "name": "Understanding Bonds", "type": "file" },
+            { "id": "bonds-2", "name": "Bond Types", "type": "file" },
+            { "id": "bonds-3", "name": "Bond Valuation", "type": "file" }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "credit-management",
+      "title": "Credit Management",
+      "description": "Learn how to manage your credit, improve your credit score, and avoid debt traps.",
+      "progress": 0,
+      "enrolled": 76,
+      "image": "https://images.unsplash.com/photo-1563013544-824ae1b704d3?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=800&q=80",
+      "content": [
+        {
+          "id": "intro",
+          "name": "Introduction to Credit",
+          "type": "folder",
+          "children": [
+            { "id": "intro-1", "name": "What is Credit?", "type": "file" },
+            { "id": "intro-2", "name": "Credit Scores", "type": "file" },
+            { "id": "intro-3", "name": "Credit Reports", "type": "file" }
+          ]
+        },
+        {
+          "id": "credit-cards",
+          "name": "Credit Cards",
+          "type": "folder",
+          "children": [
+            { "id": "credit-cards-1", "name": "Types of Credit Cards", "type": "file" },
+            { "id": "credit-cards-2", "name": "Credit Card Fees", "type": "file" },
+            { "id": "credit-cards-3", "name": "Credit Card Rewards", "type": "file" }
+          ]
+        },
+        {
+          "id": "debt",
+          "name": "Managing Debt",
+          "type": "folder",
+          "children": [
+            { "id": "debt-1", "name": "Debt Repayment Strategies", "type": "file" },
+            { "id": "debt-2", "name": "Debt Consolidation", "type": "file" },
+            { "id": "debt-3", "name": "Bankruptcy", "type": "file" }
+          ]
+        }
+      ]
+    }
+  ]
+} 
