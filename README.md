@@ -81,8 +81,8 @@ Grotik aims to democratize financial education by providing accessible, interact
 
 ## 📽️ Demo & Deliverables
 
-- **Demo Video Link:** [PLACEHOLDER - Add your demo video link here]
-- **Pitch Deck / PPT Link:** [PLACEHOLDER - Add your pitch deck link here]
+- **Demo Video Link:**  [YT Video Link](https://youtu.be/SqIsh8pt8mk)🔗
+- **Pitch Deck / PPT Link:**  [PPT Drive Link](https://docs.google.com/presentation/d/1NM1ZAv4dpNr7I-v8mEWOs6J8UKDLJecmii2pv7fmavA/edit?usp=drive_link)🔗
 
 ---
 
